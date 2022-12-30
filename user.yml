@@ -1,0 +1,5 @@
+user:
+  - name: tarun@blackstone.com
+    default_role: sf_training_role
+    default_warehouse: BXI
+    display_name: Tarun
