@@ -3,3 +3,7 @@ user:
     default_role: sf_training_role
     default_warehouse: BXI
     display_name: Tarun
+  - name: rishabh@blackstone.com
+    default_role: sf_role
+    default_warehouse: BSTF 
+    display_name: rishabh
