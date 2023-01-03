@@ -3,3 +3,7 @@ user:
     default_role: sf_training_role
     default_warehouse: BXI
     display_name: Tarun
+  - name: ajay@bs.com
+    default_role: head_role
+    default_warehouse: BTF
+    display_name: Ajay
