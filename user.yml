@@ -7,3 +7,7 @@ user:
     default_role: sf_role
     default_warehouse: BSTF 
     display_name: rishabh
+  - name: ajay@bs.com
+    default_role: head_role
+    default_warehouse: BTF
+    display_name: Ajay
